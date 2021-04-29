@@ -14,10 +14,11 @@ button {
   border: none;
   padding: 4px 16px;
   outline: none;
+  margin-right: 4px;
 }
 
 button:hover {
-  background-color: violet;
+  background-color: #3399ff;
   color: #fff;
   cursor: pointer;
 }
@@ -27,7 +28,7 @@ li {
 }
 
 .input-area {
-  background-color: aqua;
+  background-color: #bbffff;
   height: 80px;
   width: 400px;
   padding: 8px;
@@ -36,7 +37,7 @@ li {
 }
 
 .incomplete-area {
-  background-color: aquamarine;
+  background-color: #9bf9cc;
   width: 400px;
   min-height: 200px;
   padding: 8px;
@@ -45,7 +46,7 @@ li {
 }
 
 .complete-area {
-  background-color: palegoldenrod;
+  background-color: #ffffcc;
   width: 400px;
   min-height: 200px;
   padding: 8px;
